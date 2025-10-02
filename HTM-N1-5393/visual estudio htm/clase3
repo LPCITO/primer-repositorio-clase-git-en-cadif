@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/maquetacion">
+    <link rel="stylesheet" href="video/Wildlife.wmv">
+</head>
+
+<body>
+    <header>
+        <h1>pracricando hipervinculo</h1>
+        <nav>
+            <a href="clase 2.html">clase2</a>S
+            <a> href="index.html</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <video autoplay controls muted src="video/Wildlife.mp4"></video>
+        </section>
+        <section>
+            <h2>inspirado en lo ultimo que viste</h2>
+            <article>
+                <img src="img/descarga.jfif" width="250px" alt="">
+            </article>
+            <article>
+                <img src="img/descarga.jfif" width="250px" alt="">
+                <p>goku</p>
+                <ul>
+                    <li>fase 1</li>
+                    <li>fase2</li>
+                    <li>electrodomesticos</li>
+                    <li>zapatos</li>
+                    <ul>
+                        <li>televisores</li>
+                        <li>lavadoas0</li>
+                        <li>neveras</li>
+                    
+                        
+                    </ul>
+                </ul>
+<article></article><iframe width="560" height="315" src="https://www.youtube.com/embed/vyzO-5vt48g?si=J97oc5aa8cbP-g0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</iframe>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <a href="http://cadif1.com" target="_blank" rel="noopener noreferrer">cadif1</a>
+        <a href="http://wa.me" target="_blank">
+            whatsapp
+        </a>
+        <p>puedes llamar </p>
+        <a href="tel:+ 90823º490">90823º490</a>
+        90823º490 <p></p>
+        gmail al
+        <a href="mailto:luisperdomo@9927">gmail</a>
+    </footer>
+
+</body>
+
+</html>

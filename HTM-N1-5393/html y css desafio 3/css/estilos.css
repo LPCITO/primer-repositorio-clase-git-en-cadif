@@ -1,0 +1,43 @@
+p{
+color: rgb(0, 0, 0);}
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+title{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+/*maquetacion*/
+
+header{
+    background-color: rgb(116, 137, 162);
+}
+main{
+    background-color: rgb(116, 137, 162);
+}
+footer{
+    text-align: center;
+    background-color: rgb(116, 137, 162);
+}
+/* selectores de ID*/
+
+#importante {
+    background-color: rgb(63, 66, 72);
+    color: rgb(0, 0, 0);
+}
+
+/* selector de clase*/
+
+.minimo {
+    background-color: rgb(63, 66, 72);
+    color: rgb(0, 0, 0);
+}
+.segundo {
+    background-color: rgb(63, 66, 72);
+    color: rgb(0, 0, 0);
+}
+/* comentarios*/
+/* comentarios*/

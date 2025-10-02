@@ -1,0 +1,59 @@
+/*
+selectores de etiqueta
+*/
+body {
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{ 
+    text-transform: capitalize;
+    font-size: 2.5em;
+    color: red;
+    background-color: yellow;
+}
+h2 {
+    color: brown;
+}
+p{ text-indent: 15px;
+    text-align: left;
+    font-variant: small-caps;
+    letter-spacing: 5px; 
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+/*selector de id*/
+#importante{
+    font-style: oblique;/* cursiva*/
+    font-weight: bolder;/*negrilla*/
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.sub-titulos{
+    background-color: azure;
+    color: black;
+}
+.italianno-regular {
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.centrado8 {
+    text-align: center;
+}
+table{
+    border: 1px;
+    width: 800;
+    bor
+}
+th{
+    background-color: aquamarine;
+    color: crimson;
+}
+td{
+    background-color: rgb(221, 177, 177);
+    color: salmon;
+    text-align: center;
+}
